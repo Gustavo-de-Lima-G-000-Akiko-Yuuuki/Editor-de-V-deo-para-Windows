@@ -1,4 +1,4 @@
-# Segmentor - Editor de Vídeo para Windows
+# Segmentorpy - Editor de Vídeo para Windows
 
 ## 📌 Visão Geral
 O **Segmentorpy** é um editor de vídeo desenvolvido em **Python compactado** e otimizado para **Windows**.  
