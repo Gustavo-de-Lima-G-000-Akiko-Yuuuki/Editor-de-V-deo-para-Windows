@@ -29,3 +29,6 @@ Seu objetivo é simplificar a segmentação e edição de vídeos com **eficiên
    ```bash
    git clone https://github.com/seu-usuario/segmentor.git
    cd segmentor
+2. **Ou use já pronto para windows**
+   ```bash
+   https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Editor-de-V-deo-para-Windows/releases/download/editorpy/EDITOR.SEGMENT.zip
