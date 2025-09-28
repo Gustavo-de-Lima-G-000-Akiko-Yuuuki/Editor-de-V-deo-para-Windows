@@ -1,4 +1,5 @@
 # Segmentorpy - Editor de Vídeo para Windows
+![Imagem de Propaganda](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Editor-de-V-deo-para-Windows/blob/main/Capturar.PNG?raw=true)
 
 ## 📌 Visão Geral
 O **Segmentorpy** é um editor de vídeo desenvolvido em **Python compactado** e otimizado para **Windows**.  
